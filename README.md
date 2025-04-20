@@ -1,19 +1,19 @@
 # calc_sens
 This is a Calculator + Automated Creator of many mouse sensitivity configs for Quake III Arena Excessive Plus
 
-![The image did not load (This is the program interface)](Calc_Sens1.png)
+![Calc_Sens1](https://github.com/user-attachments/assets/ee6cefed-6e19-45c3-85fa-1beacb19ba07)
 
 
 
 1. Creates a script in each config to switch between two mouse sensitivities on a bind you specify.
    
-![The image did not load (This is the program interface)](Calc_Sens3.png)
+![Calc_Sens3](https://github.com/user-attachments/assets/bdb5744a-649d-49e6-8392-4b7614e883db)
 
 
 
 3. Creates dozens or even hundreds of such configs if needed.
    
-![The image did not load (This is the program interface)](Calc_Sens2.png)
+![Calc_Sens2](https://github.com/user-attachments/assets/52a6b4fe-c5fc-41ff-b0b3-b93abb8c2653)
 
 
 
@@ -27,4 +27,3 @@ Answer - It allows you to compare and easily transfer the feeling of sensitivity
 
 
 Overall, the simplicity of creation and the ease of use of such configs with two mouse sensitivities will provide new sensations and space for imagination.
-
