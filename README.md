@@ -5,12 +5,12 @@ This is a Calculator + Automated Creator of many mouse sensitivity configs for Q
 
 
 1. Creates a script in each config to switch between two mouse sensitivities on a bind you specify.
-   ![The image did not load (This is the program interface)](Calc_Sens3.png)
+![The image did not load (This is the program interface)](Calc_Sens3.png)
 
 
 
 2. Creates dozens or even hundreds of such configs if needed.
-   ![The image did not load (This is the program interface)](Calc_Sens2.png)
+![The image did not load (This is the program interface)](Calc_Sens2.png)
 
 
 
