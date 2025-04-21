@@ -11,13 +11,13 @@ This is a Calculator + Automated Creator of many mouse sensitivity configs for Q
 
 
 
-3. Creates dozens or even hundreds of such configs if needed.
+2. Creates dozens or even hundreds of such configs if needed.
    
 ![Calc_Sens2](https://github.com/user-attachments/assets/52a6b4fe-c5fc-41ff-b0b3-b93abb8c2653)
 
 
 
-4. The config name corresponds to the cm/360 value. For example, config 40.cfg corresponds to 40cm/360 degrees, allowing you to easily launch it with the command: /exec 40
+3. The config name corresponds to the cm/360 value. For example, config 40.cfg corresponds to 40cm/360 degrees, allowing you to easily launch it with the command: /exec 40
 
 
 
